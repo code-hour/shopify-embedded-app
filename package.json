@@ -23,7 +23,7 @@
     "koa-session": "^5.12.3",
     "next": "^14.2.4",
     "react": "^16.14.0",
-    "react-dom": "^16.11.0"
+    "react-dom": "^16.14.0"
   },
   "devDependencies": {
     "ngrok": "^4.3.3"
